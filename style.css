@@ -1,90 +1,15 @@
-* {
-    box-sizing: border-box;
-  }
-  
-
-  
-  body {
-    background-image: url(../images/interlaced.png);
-    font-family: Arial;
-  }
-
-
-  h3 {padding: 0.5cm;
-    background-color: white;
-    border: 4px solid rgb(73, 73, 73);
-    float: left;
-    color: gray;
-    font-weight: bold;
-    text-align: center;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
+style
+body {
+  background-color: lightblue;
 }
 
-
-
-.ul-mods li{
-    color:  #777777;
-    display: inline;
-    list-style-type: upper-roman;
+h1 {
+  color: rgb(80, 49, 49);
+  text-align: center;
 }
 
-li~li { 
-    padding-left: 10px;
-    border-left: 1px solid lightgray;
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
-  
-  .row {
-    margin: 8px -16px;
-  }
-  
-  /* Add padding BETWEEN each column (if you want) */
-  .row,
-  .row > .column {
-    padding: 10px;
-  }
-  
-  /* Create four equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 30%;
-  }
-  
-  /* Clear floats after rows */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
-  /* Content */
-  .content {
-    background-color: white;
-    padding: 10px;
-  }
-  
-  /* Responsive layout - makes a two column-layout instead of four columns */
-  @media screen and (max-width: 900px) {
-    .column {
-      width: 50%;
-    }
-  }
-  
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-    }
-  }
 
-  .footer {
-    color: gray;
-    font-size: 8pt;
-    text-align: center;
-    border-top: 8px solid lightgray;
-    background-color: white;
-    overflow: hidden;
-    left: 0;
-    position: fixed; bottom: 0;
-    bottom: 0;
-    width: 100%;
-  }
