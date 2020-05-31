@@ -11,16 +11,6 @@ Sam Bollman-Portfolio Website
 ### Portfolio
 ### Contact
 
-## Images
-1. Biopic
-2. Port 1
-3. Port 2
-4. Port 3
-5. Port 4
-6. Port 5
-7. Background Images
-
-
 ## Style-Sheets
 1. style.css
 2. stylep.css
@@ -32,12 +22,11 @@ Sam Bollman-Portfolio Website
 
 
 [Link](https://github.com/Sbollman2120/Sam-s-portfolio-) : Repo
-[Link](https://Sbollman2120.github.io/Homework1/) : GitHub Pages Site
 
 
 ## About me
 
-I am a student just starting out coding. 
+I am a high school graduate learning to code
 
 ## About this page
 
